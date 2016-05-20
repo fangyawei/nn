@@ -1,0 +1,2 @@
+# nn
+feedforward，backPropagate，nn
